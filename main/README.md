@@ -13,8 +13,16 @@ Generated 4 visualizations: correlation heatmap, scatter plot, box plot,
 and radar chart.
 
 ## Key findings
-- [paste your 3 bullet points here with real numbers]
+1. **[Hip Hop] has the highest energy (0.660) and highest valence (0.506)** — suggesting
+   intensity equals happiness.
 
+2. **Energy and loudness are strongly correlated (r ≈ 0.8)** — they measure
+   nearly the same thing, which matters when building predictive models since
+   including both would be redundant.
+
+3. **Indie is the most acoustic (0.360) and least danceable (0.607)** — consistent
+   with its guitar-driven, introspective character.
+   
 ## Charts
 [drag and drop your 4 PNG files into this editor to embed them]
 
