@@ -24,10 +24,6 @@ and radar chart.
    with its guitar-driven, introspective character.
    
 ## Charts
-![Correlation heatmap](../charts/chart1_correlations.png)
-![Energy vs Valence](../charts/chart2_energy_valence.png)
-![Danceability box plot](../charts/chart3_danceability.png)
-![Radar chart](../charts/chart4_radar.png)
 <p align="center">
   <img src="../charts/chart1_correlations.png" alt="Correlations" width="600" />
   <img src="../charts/chart2_energy_valence.png" alt="Energy vs Valence" width="600" />
