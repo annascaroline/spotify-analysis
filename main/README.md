@@ -24,7 +24,10 @@ and radar chart.
    with its guitar-driven, introspective character.
    
 ## Charts
-[drag and drop your 4 PNG files into this editor to embed them]
+![Correlation heatmap](../charts/chart1_correlations.png)
+![Energy vs Valence](../charts/chart2_energy_valence.png)
+![Danceability box plot](../charts/chart3_danceability.png)
+![Radar chart](../charts/chart4_radar.png)
 
 ## How to run
 1. Clone this repo
