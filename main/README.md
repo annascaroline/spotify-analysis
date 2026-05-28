@@ -25,13 +25,16 @@ and radar chart.
    
 ## Charts
 <p align="center">
-  <img src="../charts/chart1_correlations.png" alt="Correlations" width="40.5%" />
-  <img src="../charts/chart2_energy_valence.png" alt="Energy vs Valence" width="54%" />
+  <img src="../charts/chart1_correlations.png" alt="Correlations" width="600" />
 </p>
 
 <p align="center">
-  <img src="../charts/chart3_danceability.png" alt="Danceability" width="54%" /> 
-  <img src="../charts/chart4_radar.png" alt="Radar" width="40.5%" />
+  <img src="../charts/chart2_energy_valence.png" alt="Energy vs Valence" width="600" />
+</p>
+
+<p align="center">
+  <img src="../charts/chart3_danceability.png" alt="Danceability" height="350" style="margin-right: 10px;" />
+  <img src="../charts/chart4_radar.png" alt="Radar chart" height="350" />
 </p>
 
 ## How to run
