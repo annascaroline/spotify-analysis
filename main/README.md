@@ -25,8 +25,8 @@ and radar chart.
    
 ## Charts
 <p align="center">
-  <img src="charts/chart1_correlations.png" alt="Correlations" height="350" style="margin-right: 10px;" />
-  <img src="charts/chart2_energy_valence.png" alt="Energy vs Valence" height="350" />
+  <img src="charts/chart1_correlations.png" alt="Correlations" height="350" style="margin-right: 10px;" width="40.5%" />
+  <img src="charts/chart2_energy_valence.png" alt="Energy vs Valence" height="350" width="54%" />
 </p>
 
 <p align="center">
